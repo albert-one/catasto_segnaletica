@@ -9,12 +9,14 @@ E' completo delle immagini SVG della segnaletica verticale e di tabelle in forma
 
 Il progetto può essere utilizzato in campagna su device portatili. Si consiglia l'utilizzo di **QField** e **QFieldCloud** per avere i dati sempre aggiornati.
 
-Questa versione è stata pensata per realtà di piccole dimensioni, gestibile da un solo operatore.
+Questa versione è stata pensata per realtà di piccole dimensioni, gestibili da un solo operatore.
 
-Se si ha la necessità di utilizzo da parte di più operatori è opportuno traferire il progetto su server PostGIS.
+Se si ha la necessità di un utilizzo da parte di più operatori è opportuno traferire il progetto su server PostGIS. Così facendo si ha la possibilità di accessi multipli in contemporanea, cosa non possibile con Spatialite.
 
-Il DB principale raccoglie i dati principali del segnale nel suo complesso (cartello e sostegno), della sua collocazione lungo le strade, della tipologia, materiale, classe della pellicola, foto (fronte, retro e contesto), ecc.
+Il DB principale raccoglie i dati del segnale nel suo complesso (cartello e sostegno), della sua collocazione lungo le strade, della tipologia, materiale, classe della pellicola, foto (fronte, retro e contesto), ecc.
 
 Un DB secondario, collegato al principale 1:m, tiene nota delle manutenzioni eseguite.
 
 Una vista permette di visualizzare sulla mappa i segnali catalogati come "insufficiente" e che, pertanto, dovrebbero essere sostituiti.
+
+Per poter visualizzare i simboli SVG dei segnali è necessario impostare la cartella del progetto di QGIS.
