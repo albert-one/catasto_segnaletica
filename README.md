@@ -19,4 +19,4 @@ Un DB secondario, collegato al principale 1:m, tiene nota delle manutenzioni ese
 
 Una vista permette di visualizzare sulla mappa i segnali catalogati come "insufficiente" e che, pertanto, dovrebbero essere sostituiti.
 
-Per poter visualizzare i simboli SVG dei segnali è necessario impostare la cartella del progetto di QGIS.
+Per poter visualizzare i simboli SVG dei segnali nella mappa è necessario impostare la cartella del progetto di QGIS.
