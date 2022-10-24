@@ -7,7 +7,7 @@ L'uso di Spatialite è stato preferito per la possibilità di utilizzare la sua 
 
 E' completo delle immagini SVG della segnaletica verticale e di tabelle in formato CSV da utilizzare nelle maschere di inserimento dati.
 
-Il progetto può essere utilizzato in campagna su device portatili. Si consiglia l'utilizzo di **QField** e **QFieldCloud** per avere i dati sempre aggiornati.
+Il progetto può essere utilizzato in strada su device portatili. Si consiglia l'utilizzo di **QField** e **QFieldCloud** per avere i dati sempre aggiornati.
 
 Questa versione è stata pensata per realtà di piccole dimensioni, gestibili da un solo operatore.
 
