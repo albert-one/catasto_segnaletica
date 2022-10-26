@@ -5,7 +5,7 @@ Il progetto è stato realizzato con **QGIS** e **Spatialite**.
 
 L'uso di Spatialite è stato preferito per la possibilità di utilizzare la sua GUI per la creazione delle viste.
 
-E' completo delle immagini SVG della segnaletica verticale e di tabelle in formato CSV da utilizzare nelle maschere di inserimento dati.
+E' completo dei simboli SVG della segnaletica verticale e di tabelle in formato CSV da utilizzare nelle maschere di inserimento dati.
 
 Il progetto può essere utilizzato in strada su device portatili. Si consiglia l'utilizzo di **QField** e **QFieldCloud** per avere i dati sempre aggiornati.
 
