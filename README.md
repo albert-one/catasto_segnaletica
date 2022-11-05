@@ -7,6 +7,8 @@ L'uso di Spatialite è stato preferito per la possibilità di utilizzare la sua 
 
 E' completo dei simboli SVG della segnaletica verticale e di tabelle in formato CSV da utilizzare nelle maschere di inserimento dati.
 
+L'intento principale è quello di avere sulla mappa i simboli della segnaletica stradale riportanti l'effetivo segnale presente in strada. Se da un lato questo approccio è comodo per avere la situazione a colpo d'occhio, dall'altro lato è necessario inserire un punto per ogni segnale rilevato. Tenuto conto che il codice della strada permette di installare due segnali per ogni sostegno (che nella realtà la disposizione non viene rispettata, trovando spesso più di due segnali per sostegno), ne potrebbe scaturire un sovraffollamento di punti in spazi ridotti con conseguente difficoltà di gestione.
+
 Il progetto può essere utilizzato in strada su device portatili. Si consiglia l'utilizzo di **QField** e **QFieldCloud** per avere i dati sempre aggiornati.
 
 Questa versione è stata pensata per realtà di piccole dimensioni, gestibili da un solo operatore.
