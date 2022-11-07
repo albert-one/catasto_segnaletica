@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="49.430298cm"
+   height="23.142178cm"
+   viewBox="0 0 494.30298 231.42177"
+   version="1.1"
+   id="svg932"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="integrativo_validita.svg">
+  <defs
+     id="defs926" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.23247218"
+     inkscape:cx="1219.3799"
+     inkscape:cy="393.38072"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="cm"
+     inkscape:window-width="1440"
+     inkscape:window-height="829"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata929">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.17219674,-65.638703)">
+    <rect
+       style="fill:#fffffe;fill-opacity:1;stroke:#000005;stroke-width:1.44829953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1477"
+       width="493.06876"
+       height="229.72226"
+       x="0.7893064"
+       y="66.488457" />
+    <rect
+       style="fill:#fffffe;fill-opacity:1;stroke:#000005;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1479"
+       width="483.68481"
+       height="219.20583"
+       x="5.481266"
+       y="71.746681"
+       rx="30"
+       ry="30" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1644"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0.17219674,65.638703)"><flowRegion
+         id="flowRegion1646"><rect
+           id="rect1648"
+           width="975.72778"
+           height="433.33792"
+           x="398.90045"
+           y="251.92108" /></flowRegion><flowPara
+         id="flowPara1650"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:400px;font-family:serif;-inkscape-font-specification:'serif Bold'">0 - 24</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.90395641px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2225989"
+       x="55.670334"
+       y="189.00598"
+       id="text929"
+       transform="scale(0.8413187,1.1886102)"><tspan
+         sodipodi:role="line"
+         id="tspan927"
+         x="55.670334"
+         y="189.00598"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:89.03956604px;font-family:Umpush;-inkscape-font-specification:'Umpush Bold';stroke-width:0.2225989"><tspan
+   style="font-size:118.71941376px;stroke-width:0.2225989"
+   id="tspan931">7</tspan>,30-<tspan
+   style="font-size:118.71941376px;stroke-width:0.2225989"
+   id="tspan933">19</tspan>,00</tspan></text>
+  </g>
+</svg>
