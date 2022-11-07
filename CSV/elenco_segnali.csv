@@ -1,60 +1,56 @@
 altri pericoli,altri pericoli
 animali domestici,animali domestici
 animali selvatici,animali selvatici
-area pedonale fine,area pedonale fine
 area pedonale,area pedonale
-attr ciclabile preavviso,attr ciclabile preavviso
+area pedonale fine,area pedonale fine
 attr ciclabile,attr ciclabile
-attr pedonale preavviso,attr pedonale preavviso
+attr ciclabile preavviso,attr ciclabile preavviso
 attr pedonale,attr pedonale
+attr pedonale preavviso,attr pedonale preavviso
 bambini,bambini
 banchina pericolosa,banchina pericolosa
 caduta massi dx,caduta massi dx
 caduta massi sx,caduta massi sx
 catene obbligatorie,catene obbligatorie
-centro abitato fine,centro abitato fine
 centro abitato,centro abitato
-ciclabile pedonale contigua fine,ciclabile pedonale contigua fine
+centro abitato fine,centro abitato fine
 ciclabile pedonale contigua,ciclabile pedonale contigua
-ciclabile pedonale mista fine,ciclabile pedonale mista fine
+ciclabile pedonale contigua fine,ciclabile pedonale contigua fine
 ciclabile pedonale mista,ciclabile pedonale mista
-confine terr fine,confine terr fine
-confine terr,confine terr
-continua orizz,continua orizz
-continua vert,continua vert
+ciclabile pedonale mista fine,ciclabile pedonale mista fine
+confine territoriale,confine territoriale
+confine territoriale fine,confine territoriale fine
+continua orizzontale,continua orizzontale
+continua verticale,continua verticale
 cunetta,cunetta
 curva destra,curva destra
 curva sinistra,curva sinistra
+direzione obbligatoria destra,direzione obbligatoria destra
 direzione obbligatoria dritto,direzione obbligatoria dritto
-direzione obbligatoria dx,direzione obbligatoria dx
-direzione obbligatoria sx,direzione obbligatoria sx
-direzione obbligatoria dx e sx,direzione obbligatoria dx e sx
+direzione obbligatoria sinistra,direzione obbligatoria sinistra
 discesa pericolosa,discesa pericolosa
-divieto fermata,divieto fermata
 divieto di transito motocicli,divieto di transito motocicli
+divieto fermata,divieto fermata
 divieto segnalazioni acustiche,divieto segnalazioni acustiche
 divieto sorpasso,divieto sorpasso
-divieto sosta composito,divieto sosta composito
-divieto sosta fermata,divieto sosta fermata
 divieto sosta,divieto sosta
+divieto sosta fermata,divieto sosta fermata
 divieto sosta temporaneo,divieto sosta temporaneo
+divieto transito,divieto transito
 divieto transito autoarticolati,divieto transito autoarticolati
 divieto transito autobus,divieto transito autobus
 divieto transito autocarri,divieto transito autocarri
-"divieto transito autocarri carico X,x t.","divieto transito autocarri carico X,x t."
-"divieto transito massa X,x t.","divieto transito massa X,x t."
 divieto transito pedoni,divieto transito pedoni
 divieto transito rimorchio,divieto transito rimorchio
-divieto transito,divieto transito
 doppia curva dx,doppia curva dx
 doppia curva sx,doppia curva sx
-doppio senso,doppio senso
+doppio senso di circolazione,doppio senso di circolazione
 dosso,dosso
 fermata scuolabus,fermata scuolabus
-fine divieto,fine divieto
-fine vert,fine vert
-inizio orizz,inizio orizz
-inizio vert,inizio vert
+fine divieto (via libera),fine divieto (via libera)
+fine verticale,fine verticale
+inizio orizzontale,inizio orizzontale
+inizio verticale,inizio verticale
 integrativo autoarticolato,integrativo autoarticolato
 integrativo autotreno,integrativo autotreno
 integrativo rimozione,integrativo rimozione
@@ -65,36 +61,36 @@ limite velocita 30,limite velocita 30
 limite velocita 50,limite velocita 50
 limite velocita 70,limite velocita 70
 limite velocita 90,limite velocita 90
-parcheggio disabili,parcheggio disabili
 parcheggio,parcheggio
+parcheggio disabili,parcheggio disabili
+passaggio a livello con barriere,passaggio a livello con barriere
+passaggio a livello senza barriere,passaggio a livello senza barriere
 passaggio obbligatorio dx,passaggio obbligatorio dx
 passaggio obbligatorio sx,passaggio obbligatorio sx
+percorso pedonale,percorso pedonale
 percorso pedonale ciclabile,percorso pedonale ciclabile
 percorso pedonale fine,percorso pedonale fine
-percorso pedonale,percorso pedonale
-pista ciclabile fine,pista ciclabile fine
 pista ciclabile,pista ciclabile
+pista ciclabile fine,pista ciclabile fine
 preavviso direzione obbligatoria dx,preavviso direzione obbligatoria dx
 preavviso direzione obbligatoria sx,preavviso direzione obbligatoria sx
 preavviso pedonale,preavviso pedonale
 preavviso rotatoria,preavviso rotatoria
-precedenza,precedenza
+dare la precedenza,dare la precedenza
 rotatoria,rotatoria
 salita ripida,salita ripida
-senso unico alternato,senso unico alternato
+precedenza senso unico alternato,precedenza senso unico alternato
 senso unico dx,senso unico dx
 senso unico frontale,senso unico frontale
 senso unico sx,senso unico sx
 senso vietato,senso vietato
-stop,stop
-strada dissestata,strada dissestata
-strada scivolosa,strada scivolosa
-strada senza uscita,strada senza uscita
+fermarsi e dare la precedenza,fermarsi e dare la precedenza
+strada dissestata/deformata,strada dissestata/deformata
+strada sdrucciolevole,strada sdrucciolevole
+strettoia simmetrica,strettoia simmetrica
 strettoia asimmetrica dx,strettoia asimmetrica dx
 strettoia asimmetrica sx,strettoia asimmetrica sx
-strettoia,strettoia
-toponomastica,toponomastica
-zona 30 fine,zona 30 fine
 zona 30,zona 30
-zona residenziale fine,zona residenziale fine
+zona 30 fine,zona 30 fine
 zona residenziale,zona residenziale
+zona residenziale fine,zona residenziale fine
