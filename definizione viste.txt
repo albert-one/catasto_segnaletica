@@ -1,0 +1,45 @@
+V-SEGNALI
+SELECT
+"id-se",
+"id_so",
+"se-materiale" as 'materiale',
+"se-dim" as 'dimensione',
+"se-prescrizione" as 'segnale',
+"se-classe" as 'classe',
+"so-toponomastica" as 'strada',
+"so-civ-km" as 'riferimento',
+"so-lato" as 'lato',
+"so-foto" as 'foto',
+"Art-codice" as 'codice',
+"se-svg" as 'figura',
+st_centroid(geometry) as geom
+FROM
+sostegni,segnali,elenco_segnali
+WHERE
+"id_so"="fk-id-so"
+AND
+"se-prescrizione"="svg"
+
+V-SOSTITUZIONI
+SELECT
+"id-se" as 'id-segnale',
+"id_so" as 'id-sostegno',
+"se-materiale" as 'materiale',
+"se-dim" as 'dimensione',
+"se-prescrizione" as 'segnale',
+"se-classe" as 'classe',
+"so-toponomastica" as 'strada',
+"so-civ-km" as 'riferimento',
+"so-lato" as 'lato',
+"so-foto" as 'foto',
+"Art-codice" as 'codice',
+"se-svg" as 'figura',
+st_centroid(geometry) as geom
+FROM
+sostegni,segnali,elenco_segnali
+WHERE
+"id_so"="fk-id-so"
+AND
+"se-stato"='insufficiente'
+AND
+"se-prescrizione"="svg"
