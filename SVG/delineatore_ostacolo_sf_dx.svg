@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.07057"
+   height="500"
+   viewBox="0 0 26.477005 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="delineatore_ostacolo_sf_dx.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.628"
+     inkscape:cx="50.061425"
+     inkscape:cy="250"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <color-profile
+       name="sRGB-IEC61966-2.1"
+       xlink:href="file:///C:/WINDOWS/system32/spool/drivers/color/sRGB%20Color%20Space%20Profile.icm"
+       id="color-profile2320" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.05,200)">
+    <g
+       id="g861"
+       transform="matrix(2.3809522,0,0,2.3809522,0.0690476,276.19044)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.00555584;stroke-dasharray:none;stroke-opacity:1"
+         id="rect61"
+         width="11.111676"
+         height="44.446705"
+         x="-11.067565"
+         y="-188.88832"
+         transform="scale(-1,1)" />
+      <path
+         id="rect1574"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00588919;stroke-dasharray:none"
+         d="m 5.3271778,-150.19513 -5.37246256,-5.35107 v 11.10576 H 11.060475 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path2406"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00588919;stroke-dasharray:none"
+         d="m 5.692158,-183.13069 5.372463,5.35107 v -11.10576 H -0.04113899 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect2408"
+         style="stroke:#000000;stroke-width:0.00588919"
+         d="m 11.064621,-166.63055 -11.1116764,-11.13897 v 11.02977 l 11.1116764,11.19358 z"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         style="fill:#00438a;fill-opacity:1;stroke:none;stroke-width:0.00588919;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5388"
+         width="11.111676"
+         height="11.111676"
+         x="-11.067565"
+         y="-200"
+         transform="scale(-1,1)" />
+      <path
+         style="fill:#ffffff;stroke-width:0.0683857"
+         d="m 2.4513677,-198.81335 4.3759819,4.37598 c 0.040642,0.0406 0.1065893,0.0406 0.1469536,2.8e-4 0.00956,-0.01 0.017008,-0.0209 0.0221,-0.0322 l 0.7682462,-1.55346 c 0.01357,-0.0243 0.030434,-0.0475 0.051026,-0.0681 0.1158859,-0.11588 0.3039338,-0.11561 0.4196364,1.1e-4 0.041003,0.041 0.067401,0.0908 0.079375,0.14351 l 1.2722469,5.56782 -5.5568347,-1.28318 c -0.052704,-0.012 -0.1024152,-0.0385 -0.1434184,-0.0795 -0.1157053,-0.11571 -0.116067,-0.30366 -5.56e-5,-0.41964 0.020652,-0.0206 0.043497,-0.0373 0.067809,-0.0507 l 1.5434329,-0.75823 c 0.011424,-0.005 0.022667,-0.0126 0.032065,-0.022 0.040639,-0.0406 0.040458,-0.10641 -2.222e-4,-0.14705 l -4.3759819,-4.37598 1.2976926,-1.29769"
+         id="path1889" />
+    </g>
+  </g>
+  <metadata
+     id="metadata1954">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
