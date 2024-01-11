@@ -6,111 +6,116 @@ area_pedonale_fine,area pedonale fine,prescrizione,Fig. 321 art. 135,4
 area_pedonale,area pedonale,prescrizione,Fig. 320 art. 135,5
 attr_ciclabile_preavviso,attr ciclabile preavviso,pericolo,Fig. 14 art. 88,6
 attr_ciclabile,attr ciclabile,utili,Fig. 324 art. 135,7
-attr_pedonale_preavviso,attr pedonale preavviso,pericolo,Fig. 14 - art. 88,8
-attr_pedonale,attr pedonale,utili,Fig. 13 art. 88,9
-bambini,bambini,pericolo,Fig. 23 - art. 94,10
-banchina_pericolosa,banchina pericolosa,pericolo,Fig. 21 - art. 92,11
-caduta_massi_dx,caduta massi dx,pericolo,Fig. 30/a - art. 98,12
-caduta_massi_sx,caduta massi sx,pericolo,Fig. 30/b - art. 98,13
-catene_obbligatorie,catene obbligatorie,prescrizione,Fig. 87 - art. 122,14
+attr_pedonale_preavviso,attr pedonale preavviso,pericolo,Fig. 13 art. 88,8
+attr_pedonale,attr pedonale,utili,Fig. 303 art. 305,9
+bambini,bambini,pericolo,Fig. 23 art. 94,10
+banchina_pericolosa,banchina pericolosa,pericolo,Fig. 21 art. 92,11
+caduta_massi_dx,caduta massi dx,pericolo,Fig. 30/a art. 98,12
+caduta_massi_sx,caduta massi sx,pericolo,Fig. 30/b art. 98,13
+catene_obbligatorie,catene obbligatorie,prescrizione,Fig. 87 art. 122,14
 centro_ab_fine,centro abitato fine,indicazione,Fig. 273f art. 131,15
 centro_ab,centro abitato,indicazione,Fig. 273 art. 131,16
-ciclabile_pedonale_contigua_fine,ciclabile pedonale contigua fine,prescrizione,Fig. 93/a - art. 122,17
-ciclabile_pedonale_contigua,ciclabile pedonale contigua,prescrizione,Fig. 92/a - Art. 122,18
-ciclabile_pedonale_mista_fine,ciclabile pedonale mista fine,prescrizione,Fig. 93/b - art. 122,19
-ciclabile_pedonale_mista,ciclabile pedonale mista,prescrizione,Fig. 92/a - Art. 122,20
+ciclabile_pedonale_contigua_fine,ciclabile pedonale contigua fine,prescrizione,Fig. 93/a art. 122,17
+ciclabile_pedonale_contigua,ciclabile pedonale contigua,prescrizione,Fig. 92/a art. 122,18
+ciclabile_pedonale_mista_fine,ciclabile pedonale mista fine,prescrizione,Fig. 93/b art. 122,19
+ciclabile_pedonale_mista,ciclabile pedonale mista,prescrizione,Fig. 92/b art. 122,20
 confine_terr_fine,confine terr fine,indicazione,,21
 confine_terr,confine terr,indicazione,,22
 continua_orizz,continua orizz,integrativo,Mod. 5/b2,23
 continua_vert,continua vert,integrativo,Mod. 5/a2,24
-cunetta,cunetta,pericolo,Fig. 3 - art. 85,25
-curva_destra,curva destra,pericolo,Fig. 4 - art. 86,26
-curva_sinistra,curva sinistra,pericolo,Fig. 5 - art. 86,27
-direzione_obbligatoria,direzione obbligatoria,prescrizione,Fig. 80/a - art. 122,28
-direzione_obbligatoria_dritto-dx,direzione obbligatoria dritto e dx,prescrizione,Fig. 81/b - art. 122,31
-direzione_obbligatoria_dritto-sx,direzione obbligatoria dritto e sx,prescrizione,Fig. 81/c - art. 122,32
+cunetta,cunetta,pericolo,Fig. 3 art. 85,25
+curva_destra,curva destra,pericolo,Fig. 4 art. 86,26
+curva_sinistra,curva sinistra,pericolo,Fig. 5 art. 86,27
+direzione_obbligatoria,direzione obbligatoria,prescrizione,Fig. 80/a art. 122,28
+direzione_autocarri_composito,direzione obbligatoria autocarri,prescrizione,Mod. II 8/a art. 83,29
+direzione_obbligatoria_dritto-dx,direzione obbligatoria dritto e dx,prescrizione,Fig. 81/b art. 122,31
+direzione_obbligatoria_dritto-sx,direzione obbligatoria dritto e sx,prescrizione,Fig. 81/c art. 122,32
 discesa_pericolosa,discesa pericolosa,pericolo,Fig. 15 art. 89,33
 divieto_fermata,divieto fermata,prescrizione,Fig. 75 art. 120,34
-divieto_transito_motocicli,divieto di transito motocicli,prescrizione,Fig. 56 - art. 117,35
-divieto_segnalazioni_acustiche,divieto segnalazioni acustiche,prescrizione,Fig. 51 - art. 116,36
-divieto_sorpasso,divieto sorpasso,prescrizione,Fig. 48 - art. 116,37
-divieto_sosta_composito,divieto di sosta composito,prescrizione,,38
-divieto_sosta,divieto di sosta,prescrizione,Fig. 74 - art. 120,40
+divieto_transito_motocicli,divieto di transito motocicli,prescrizione,Fig. 56 art. 117,35
+divieto_segnalazioni_acustiche,divieto segnalazioni acustiche,prescrizione,Fig. 51 art. 116,36
+divieto_sorpasso,divieto sorpasso,prescrizione,Fig. 48 art. 116,37
+divieto_sosta_composito,divieto di sosta composito,prescrizione,Mod. II 8/a art. 83,38
+divieto_sosta,divieto di sosta,prescrizione,Fig. 74 art. 120,40
 divieto_sosta_temporaneo,divieto di sosta temporaneo,prescrizione,Mod. 8 art. 83 8/a,41
 divieto_transito_autoarticolati,divieto di transito autoarticolati,prescrizione,,42
-divieto_transito_autobus,divieto di transito autobus,prescrizione,Fig. 59 - art. 117,43
-divieto_transito_autocarri,"divieto di transito massa 3,5 t",prescrizione,Fig. 60/a - art. 117,44
-divieto_transito_pedoni,divieto di transito pedoni,prescrizione,Fig. 54 - art. 117,45
-divieto_transito_peso,divieto di transito con massa sup. a …,prescrizione,Fig. 68 - art. 118,46
-divieto_transito_rimorchio,divieto di transito rimorchio,prescrizione,Fig. 61 - art. 117,47
-divieto_transito,divieto di transito,prescrizione,Fig. 46 - art. 116,48
-doppia_curva_dx,doppia curva dx,pericolo,Fig. 6 - art. 86,49
-doppia_curva_sx,doppia curva sx,pericolo,Fig. 7 - art. 86,50
-doppio_senso,doppio senso di circolazione,pericolo,Fig. 26 - art. 96,51
-dosso,dosso,pericolo,Fig. 2 - Art. 85,52
+divieto_transito_autobus,divieto di transito autobus,prescrizione,Fig. 59 art. 117,43
+divieto_transito_autocarri,"divieto di transito massa 3,5 t",prescrizione,Fig. 60/a art. 117,44
+divieto_transito_pedoni,divieto di transito pedoni,prescrizione,Fig. 54 art. 117,45
+divieto_transito_peso,divieto di transito con massa sup. a …,prescrizione,Fig. 68 art. 118,46
+divieto_transito_rimorchio,divieto di transito rimorchio,prescrizione,Fig. 61 art. 117,47
+divieto_transito,divieto di transito,prescrizione,Fig. 46 art. 116,48
+doppia_curva_dx,doppia curva dx,pericolo,Fig. 6 art. 86,49
+doppia_curva_sx,doppia curva sx,pericolo,Fig. 7 art. 86,50
+doppio_senso,doppio senso di circolazione,pericolo,Fig. 26 art. 96,51
+dosso,dosso,pericolo,Fig. 2 art. 85,52
 fermata_scuolabus,fermata scuolabus,indicazione,Fig. 304 art. 125,53
-fine_divieto,via libera,prescrizione,Fig. 70 - art. 119,54
+fine_divieto,via libera,prescrizione,Fig. 70 art. 119,54
 fine_vert,fine vert,integrativo,Mod. 5/a3,55
 inizio_orizz,inizio orizz,integrativo,Mod. 5/b1,56
 inizio_vert,inizio vert,integrativo,Mod. 5/a1,57
 integrativo_autoarticolato,integrativo autoarticolato,integrativo,Mod. 4 art. 83 4/a,58
 integrativo_autotreno,integrativo autotreno,integrativo,,59
 integrativo_rimozione,integrativo rimozione,integrativo,Mod. 6 art. 83 6/a,60
-intersezione_con_precedenza,intersezione con precedenza,pericolo,Fig. 43/a - art. 112,61
-intersezione_dare_precedenza,intersezione precedenza a dx,prescrizione,Fig. 40 - art. 109,62
+intersezione_con_precedenza,intersezione con precedenza,pericolo,Fig. 43/a art. 112,61
+intersezione_dare_precedenza,intersezione precedenza a dx,prescrizione,Fig. 40 art. 109,62
 lavori,lavori,pericolo,,63
-limite_velocita_30,limite velocita 30,prescrizione,Fig. 50 - art. 116,64
-limite_velocita_50,limite velocita 50,prescrizione,Fig. 50 - art. 116,65
-limite_velocita_70,limite velocita 70,prescrizione,Fig. 50 - art. 116,66
-limite_velocita_90,limite velocita 90,prescrizione,Fig. 50 - art. 116,67
-parcheggio_disabili,parcheggio disabili,prescrizione,Fig. 79/a - art. 120,68
-parcheggio,parcheggio,indicazione,Fig. 76 - art. 120,69
-passaggio_obbligatorio_dx,passaggio obbligatorio dx,prescrizione,Fig. 82/b - art. 122,70
-passaggio_obbligatorio_sx,passaggio obbligatorio sx,prescrizione,Fig. 82/a - art. 122,71
-passaggio_obbligatorio_dx-sx,passaggio obbligatorio dx-sx,prescrizione,Fig. 83 - art. 122,72
-percorso_pedonale_fine,percorso pedonale fine,prescrizione,Fig. 89 - art. 122,74
-percorso_pedonale,percorso pedonale,prescrizione,Fig. 88 - art. 122,75
-pista_ciclabile_fine,pista ciclabile fine,prescrizione,Fig. 91 - art. 122,76
-pista_ciclabile,pista ciclabile,prescrizione,Fig. 90 - art. 122,77
-preavviso_direzione_obbligatoria_dx,preavviso direzione obbligatoria dx,prescrizione,Fig. 80/d - art. 122,78
-preavviso_direzione_obbligatoria_sx,preavviso direzione obbligatoria sx,prescrizione,Fig. 80/e - art. 122,79
+limite_velocita_30,limite velocita 30,prescrizione,Fig. 50 art. 116,64
+limite_velocita_50,limite velocita 50,prescrizione,Fig. 50 art. 116,65
+limite_velocita_70,limite velocita 70,prescrizione,Fig. 50 art. 116,66
+limite_velocita_90,limite velocita 90,prescrizione,Fig. 50 art. 116,67
+parcheggio_disabili,parcheggio disabili,prescrizione,Fig. 79/a art. 120,68
+parcheggio,parcheggio,indicazione,Fig. 76 art. 120,69
+passaggio_obbligatorio_dx,passaggio obbligatorio dx,prescrizione,Fig. 82/b art. 122,70
+passaggio_obbligatorio_sx,passaggio obbligatorio sx,prescrizione,Fig. 82/a art. 122,71
+passaggio_obbligatorio_dx-sx,passaggio obbligatorio dx-sx,prescrizione,Fig. 83 art. 122,72
+percorso_pedonale_fine,percorso pedonale fine,prescrizione,Fig. 89 art. 122,74
+percorso_pedonale,percorso pedonale,prescrizione,Fig. 88 art. 122,75
+pista_ciclabile_fine,pista ciclabile fine,prescrizione,Fig. 91 art. 122,76
+pista_ciclabile,pista ciclabile,prescrizione,Fig. 90 art. 122,77
+preavviso_direzione_obbligatoria_dx,preavviso direzione obbligatoria dx,prescrizione,Fig. 80/d art. 122,78
+preavviso_direzione_obbligatoria_sx,preavviso direzione obbligatoria sx,prescrizione,Fig. 80/e art. 122,79
 preavviso_pedonale,preavviso pedonale,pericolo,Fig. 13 art. 88,80
-preavviso_rotatoria,circolazione rotatoria,pericolo,Fig. 27 - art. 96,81
-precedenza,precedenza,prescrizione,Fig. 36 - art. 106,82
-rotatoria,rotatoria,prescrizione,Fig. 84 - art. 122,83
+preavviso_rotatoria,circolazione rotatoria,pericolo,Fig. 27 art. 96,81
+precedenza,precedenza,prescrizione,Fig. 36 art. 106,82
+rotatoria,rotatoria,prescrizione,Fig. 84 art. 122,83
 salita_ripida,salita ripida,pericolo,Fig. 16 art. 89,84
-senso_unico_alternato,senso unico alternato con precedenza,prescrizione,Fig. 45 - art. 114,85
+senso_unico_alternato,senso unico alternato con precedenza,prescrizione,Fig. 45 art. 114,85
 senso_unico_frontale,senso unico frontale,prescrizione,Fig. 349 art. 135,86
 senso_unico_laterale,senso unico laterale,prescrizione,Fig. 348 art. 135,87
-senso_vietato,senso vietato,prescrizione,Fig. 47 - art. 116,88
-stop,stop,prescrizione,Fig. 37 - art. 108,89
-strada_dissestata,strada dissestata,pericolo,Fig. 1 - Art. 85,90
-strada_scivolosa,strada sdrucciolevole,pericolo,Fig. 22 - art. 93,91
-strada_senza_uscita,strada senza uscita,indicazione,Fig. II 309 art. 135,92
-strettoia_asimmetrica_dx,strettoia asimmetrica dx,pericolo,Fig. 19 - art.90,93
-strettoia_asimmetrica_sx,strettoia asimmetrica sx,pericolo,Fig. 18 - art. 90,94
+senso_vietato,senso vietato,prescrizione,Fig. 47 art. 116,88
+stop,stop,prescrizione,Fig. 37 art. 107,89
+strada_dissestata,strada dissestata,pericolo,Fig. 1 art. 85,90
+strada_scivolosa,strada sdrucciolevole,pericolo,Fig. 22 art. 93,91
+strada_senza_uscita,strada senza uscita,indicazione,Fig. 309 art. 135,92
+strettoia_asimmetrica_dx,strettoia asimmetrica dx,pericolo,Fig. 19 art.90,93
+strettoia_asimmetrica_sx,strettoia asimmetrica sx,pericolo,Fig. 18 art. 90,94
 strettoia,strettoia,pericolo,Fig. 17 art. 90,95
-toponomastica,toponomastica,utili,Art. 133,96
-zona_30_fine,zona 30 fine,prescrizione,Fig. II 323/b – art. 135,97
-zona_30,zona 30,prescrizione,Fig. II 323/a – art. 135,98
+toponomastica,toponomastica,utili,art. 133,96
+zona_30_fine,zona 30 fine,prescrizione,Fig. 323/b art. 135,97
+zona_30,zona 30,prescrizione,Fig. 323/a art. 135,98
 zona_residenziale_fine,zona residenziale fine,prescrizione,Fig. 318 art. 135,99
 zona_residenziale,zona residenziale,prescrizione,Fig. 319 art. 135,100
-tabellone_preselezione,tabellone preselezione,preselezione,Fig. II 240 art. 127,101
-larghezza_ridotta,larghezza massima,prescrizione,Fig. 65 - art. 118,102
-divieto_transito_biciclette,divieto di transito biciclette,prescrizione,Fig. 55 - art. 117,103
-,passaggio a livello con barriere,pericolo,Fig. 8 - art. 87,104
-,passaggio a livello senza barriere,pericolo,Fig. 9 - art. 87,105
-,materiale instabile sulla strada,pericolo,Fig. 29 - art. 98,106
-,semaforo,pericolo,Fig. 31/a - art. 99,107
-senso_unico_alternato2,dare precedenza senso unico alternato,pericolo,Fig. 41 - art. 110,108
-strada_con_precedenza_fine,fine strada con precedenza,indicazione,Fig. 42 - art. 111,109
-strada_con_precedenza,diritto di precedenza,indicazione,Fig. 44 - art. 113,110
-intersezione_T_precedenza_dx,intersezione a T con precedenza dx,pericolo,Fig. 43/b - art. 112,111
-intersezione_T_precedenza_sx,intersezione a T con precedenza sx,pericolo,Fig. 43/c - art. 112,112
-confluenza_dx,confluenza a dx,pericolo,Fig. 43/d - art. 112,113
-confluenza_sx,confluenza a sx,pericolo,Fig. 43/d - art. 112,114
-,altezza massima,prescrizione,Fig. 66 - art. 118,115
-,sosta regolamentata,indicazione,Fig. 79/d - art. 120,116
-,direzione obbligatoria sx,prescrizione,Fig. 80/b - art. 122,117
-,direzione obbligatoria dx,prescrizione,Fig. 80/c - art. 122,118
-,preavviso direzione obbligatoria dx e sx,prescrizione,Fig. 81/a - art. 122,119
+tabellone_preselezione,tabellone preselezione,preselezione,Fig. 240 art. 127,101
+larghezza_ridotta,larghezza massima,prescrizione,Fig. 65 art. 118,102
+divieto_transito_biciclette,divieto di transito biciclette,prescrizione,Fig. 55 art. 117,103
+,passaggio a livello con barriere,pericolo,Fig. 8 art. 87,104
+,passaggio a livello senza barriere,pericolo,Fig. 9 art. 87,105
+,materiale instabile sulla strada,pericolo,Fig. 29 art. 98,106
+semaforo,semaforo,pericolo,Fig. 31/a art. 99,107
+senso_unico_alternato2,dare precedenza senso unico alternato,pericolo,Fig. 41 art. 110,108
+strada_con_precedenza_fine,fine strada con precedenza,indicazione,Fig. 42 art. 111,109
+strada_con_precedenza,diritto di precedenza,indicazione,Fig. 44 art. 113,110
+intersezione_T_precedenza_dx,intersezione a T con precedenza dx,pericolo,Fig. 43/b art. 112,111
+intersezione_T_precedenza_sx,intersezione a T con precedenza sx,pericolo,Fig. 43/c art. 112,112
+confluenza_dx,confluenza a dx,pericolo,Fig. 43/d art. 112,113
+confluenza_sx,confluenza a sx,pericolo,Fig. 43/d art. 112,114
+,altezza massima,prescrizione,Fig. 66 art. 118,115
+sosta_regolamentata,sosta regolamentata,indicazione,Fig. 79/d art. 120,116
+direzione_obbligatoria_sx,direzione obbligatoria sx,prescrizione,Fig. 80/b art. 122,117
+direzione_obbligatoria_dx,direzione obbligatoria dx,prescrizione,Fig. 80/c art. 122,118
+direzione_obbligatoria_dx_sx,direzione obbligatoria dx e sx,prescrizione,Fig. 81/a art. 122,119
+delineatore_ostacolo_s_dx,delineatore ostacolo dx,utili,Fig. 394/b art. 174,120
+delineatore_ostacolo_s_dx,delineatore ostacolo sx,utili,Fig. 394/a art. 174,121
+delineatore_ostacolo_sf_dx,delineatore ostacolo dx con freccia,utili,Fig. 394/b + Fig. 82/b art.  174,122
+delineatore_ostacolo_sf_sx,delineatore ostacolo sx con freccia,utili,Fig. 394/a + Fig. 82/a art.  174,123
