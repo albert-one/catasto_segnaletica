@@ -15,6 +15,4 @@ Se si ha la necessità di un utilizzo da parte di più operatori è opportuno tr
 
 "Sostegni" è il layer principale e raccoglie i dati del sostegno; con un collegamento 1:m vengono censiti i segnali installati sul singolo sostegno; in questo modo si registrano i dati del segnale nel suo complesso (cartelli e sostegno), della sua collocazione lungo le strade, della tipologia, materiale, classe della pellicola, foto (fronte, retro e contesto), ecc.
 
-Le tabelle secondarie, senza geometria, collegate 1:m, tengono nota delle manutenzioni eseguite sia per il sostegno che per la segnaletica. Il prefisso "so-" identifica le tabelle collegate al sostegno, mentre le tabelle con prefisso "se-" identifica quelle collegate al segnale.
-
 I simboli SVG vengono visualizzati nella maschera della segnaletica, in modo da avere visione dei segnali installati.
